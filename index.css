@@ -1,0 +1,44 @@
+button{
+    color: red;
+    background-color:black;
+    height: 70px;
+    width: 70px;
+    font-size: x-large;
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+
+}
+table{
+    height: 20px;
+    width: 10px;
+    border: 9px solid black;
+    padding: 19px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px ;
+    background-color: black;
+   
+
+}
+input{
+    width: 300px;
+    height: 50px;
+    font-size: xx-large;
+    border-radius: 30px;
+    margin: 20px;
+   
+}
+button:hover{
+    color:goldenrod;
+    cursor: pointer;
+}
+
+
+
+.ac{
+  color: brown;
+
+}
+.en{
+    color: blanchedalmond;
+}
+
